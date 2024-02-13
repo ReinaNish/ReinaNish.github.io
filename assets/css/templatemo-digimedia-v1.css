@@ -1391,7 +1391,8 @@ Services Style
   width: 15%;
   font-size: 20px;
   font-weight: 700;
-  display: inline-block;
+  display: block;
+  width: 100%; /* 必要に応じて */
   text-align: center;
   cursor: pointer;
   position: relative;
